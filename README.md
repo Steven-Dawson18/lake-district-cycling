@@ -60,4 +60,4 @@ As a potential client, I want to know how I can download the cycle routes
 
 ## Wire frame mockups <a name="ux2"></a>
 
-* [Wireframes.pdf](assets/wireframes/lake-district-cycling)
+* [Wireframes.pdf](assets/wireframes/lake-district-cycling.pdf)
