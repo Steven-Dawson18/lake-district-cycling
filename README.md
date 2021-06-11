@@ -19,6 +19,7 @@ This website is to provide a comprehensive list of cycling routes for families w
 
 1. [UX](#ux)
 * [Client Stories](#ux1)
+* [Wireframe Mockups](#ux2)
 
 ## UX <a name="ux"></a>
 
@@ -56,3 +57,7 @@ As a potential client, I want to know how I can download the cycle routes
 6. As an interested observer and potential client, I want to be able to follow the events on social media so I can keep up to date with the latest news and events and sign up to up-coming events
 7. As an interested client, I want an easy to fill in contact/ sign up form, so I can make contact sign up to activities
 8. As a returning visitor to the website, who has already signed up/ provided contact details, I want to be able to leave a review of cycle routes and activities easily
+
+## Wire frame mockups <a name="ux2"></a>
+
+* [Wireframes.pdf](assets/wireframes/lake-district-cycling)
