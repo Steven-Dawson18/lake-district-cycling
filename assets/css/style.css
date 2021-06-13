@@ -6,3 +6,18 @@
     border: none;
     box-sizing: border-box;
 }
+
+/* logo */
+
+#logo {
+    font-size: large;
+    color: blue;
+    float: left;
+    border-bottom: 1px solid orange;
+}
+
+#logo i {
+    color: orange;
+}
+
+/* navigation menu */
