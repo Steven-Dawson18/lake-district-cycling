@@ -6,6 +6,22 @@
     border: none;
     box-sizing: border-box;
 }
+/* body */
+
+
+body {
+    font-family: 'roboto', sans-serif;
+    font-weight: 400;
+    color: black;
+}
+
+/* headings */
+
+h1 ,h2 {
+    font-family: "roboto", sans-serif;
+    text-transform: uppercase;
+    color: black;
+}
 
 /* logo */
 
