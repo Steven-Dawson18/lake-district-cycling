@@ -62,6 +62,8 @@ h1 ,h2 {
 
 #logo #menu {
     line-height: 100px;
+    padding: 20px;
+    margin-bottom: 50px;
 }
 
 /* landing page hero-image */
@@ -91,4 +93,23 @@ h1 ,h2 {
     left: 160px;
     position: absolute;
     overflow: hidden;
+}
+
+/* main page content */
+
+#main-content {
+    max-width: 1600px;
+    min-width: 600px;
+    padding: 20px;
+    margin: 40px;
+    border: 1px dotted orange;
+}
+
+#main-heading {
+    text-align: center;
+}
+#main-heading~p {
+    text-align: center;
+    padding: 30px;
+    margin: 40px;
 }
