@@ -21,3 +21,29 @@
 }
 
 /* navigation menu */
+
+#menu {
+    font-size: large;
+    letter-spacing: 2px;
+}
+
+#menu  li {
+    list-style-type: none;
+    float: right;
+}
+
+# menu a {
+    text-decoration: none;
+    color: blue;
+}
+#menu a:hover {
+    border-bottom: 1px solid orange;
+}
+
+.active {
+    border-bottom: 1px solid blue;
+}
+
+#logo #menu {
+    line-height: 100px;
+}
