@@ -8,7 +8,6 @@
 }
 /* body */
 
-
 body {
     font-family: 'roboto', sans-serif;
     font-weight: 400;
@@ -97,7 +96,7 @@ h1 ,h2 {
 
 /* main page content */
 
-#main-content {
+.main-content {
     max-width: 1600px;
     min-width: 600px;
     padding: 20px;
@@ -105,15 +104,15 @@ h1 ,h2 {
     border: 1px dotted orange;
 }
 
-#main-heading {
+.main-heading {
     text-align: center;
 }
 
-#main-heading h2 {
+.main-heading h2 {
     margin-bottom: 20px;
 }
 
-#main-heading~p {
+.main-heading~p {
     text-align: center;
     padding: 30px;
     margin-bottom: 20px;
@@ -126,6 +125,7 @@ h1 ,h2 {
     padding: 20px;
     border: 1px dotted orange;
     margin: 20px;
+    display: block;
 }
 
 .level-image h2 {
@@ -162,6 +162,7 @@ h1 ,h2 {
 #adventures h2 {
     text-align: center;
     margin-bottom: 20px;
+    margin-top: 40px;
 }
 
 #adventures ul {
@@ -218,6 +219,9 @@ h1 ,h2 {
 #sign-up a {
     text-decoration: none;
     color: blue;
+    width: 200px;
+    padding:20px;
+    margin: 40px auto;
 }
 
 /* Footer social media links */
@@ -239,3 +243,6 @@ text-align: center;
     padding: 5%;
     color: black;
 }
+
+/* where to ride.html*/
+
