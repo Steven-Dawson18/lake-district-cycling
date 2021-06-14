@@ -108,10 +108,15 @@ h1 ,h2 {
 #main-heading {
     text-align: center;
 }
+
+#main-heading h2 {
+    margin-bottom: 20px;
+}
+
 #main-heading~p {
     text-align: center;
     padding: 30px;
-    margin: 40px;
+    margin-bottom: 20px;
 }
 
 /* main content pictures */
@@ -123,7 +128,12 @@ h1 ,h2 {
     margin: 20px;
 }
 
+.level-image h2 {
+    margin-top: 20px;
+}
+
 /* main content supporting text */
+
 .level-text {
     padding: 20px;
     border: 1px dotted orange;
@@ -145,4 +155,9 @@ h1 ,h2 {
     border: 1px dotted orange;
     margin: 0 auto;
     display: block;
+}
+
+#adventures h2 {
+    text-align: center;
+    margin-bottom: 20px;
 }
