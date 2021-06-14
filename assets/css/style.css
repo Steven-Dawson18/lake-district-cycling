@@ -214,3 +214,23 @@ h1 ,h2 {
     border: 1px solid blue;
     color: #FFF;
 }
+
+/* Footer social media links */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+text-align: center;
+}
+.social-networks li {
+    display: inline
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: black;
+}
