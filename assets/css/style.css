@@ -139,3 +139,10 @@ h1 ,h2 {
     max-height: 200px;
     overflow: auto;
 }
+
+#adventures iframe {
+    padding: 20px;
+    border: 1px dotted orange;
+    margin: 0 auto;
+    display: block;
+}
