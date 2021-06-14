@@ -20,6 +20,13 @@ This website is to provide a comprehensive list of cycling routes for families w
 1. [UX](#ux)
 * [Client Stories](#ux1)
 * [Wireframe Mockups](#ux2)
+2. [Features](#features)
+3. [Bugs discovered](#bugs)
+4. [Credits](#credits)
+* Content
+* Media
+* Animations
+* Code
 
 ## UX <a name="ux"></a>
 
@@ -61,3 +68,31 @@ As a potential client, I want to know how I can download the cycle routes
 ## Wire frame mockups <a name="ux2"></a>
 
 * [Wireframes.pdf](assets/wireframes/lake-district-cycling.pdf)
+
+### Development Process <a name="ux3"></a>
+
+---
+## Features <a name="features"></a>
+
+---
+## Bugs <a name="bugs"></a>
+
+---
+## Credits <a name="credits"></a>
+
+### Content
+
+### Media
+#### The photos used on the home and sign up page are from Google Images and linked to original site:
+* hero-image.jpeg - nationaltrust.org
+* grizedale-trail-adv.jpeg - holidaycottagescumbria.com
+* grizedale-map.jpeg - grizedalemountainbikes.co.uk
+* grizedale-fam.jpeg - forestryengland.uk
+* grizedale-trail.jpeg - forestryengland.uk
+* whimlatter-fam.jpeg - moredirt.com
+* whimlatter-int.jpeg - moredirt.com
+* whimlatter-adv.jpeg - mbr.co.uk
+* grasmere-fam.jpeg - letsride.co.uk
+
+### Code
+youtube - <iframe width="737" height="415" src="https://www.youtube.com/embed/F9dWj-lx8bQ" title="Brathay Adventures" allowfullscreen></iframe>
