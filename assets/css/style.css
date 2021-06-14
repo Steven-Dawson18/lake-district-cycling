@@ -161,3 +161,15 @@ h1 ,h2 {
     text-align: center;
     margin-bottom: 20px;
 }
+
+#adventures ul {
+    padding: 20px;
+}
+#adventures li {
+    display: inline-block;
+    list-style: none;
+    width: 200px;
+    padding: 10px 20px;
+    background-color: orange;
+    border-radius: 15px;
+}
