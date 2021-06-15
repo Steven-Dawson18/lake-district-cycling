@@ -25,10 +25,12 @@ h1 ,h2 {
 /* logo */
 
 #logo {
-    font-size: large;
+    font-size: 200%;
     color: blue;
     float: left;
     border-bottom: 1px solid orange;
+    \ padding: 20px;
+    margin: 20px;
 }
 
 #logo i {
@@ -40,16 +42,20 @@ h1 ,h2 {
 #menu {
     font-size: large;
     letter-spacing: 2px;
+    padding: 20px;
+    margin: 20px;
 }
 
 #menu  li {
     list-style-type: none;
     float: right;
+
 }
 
 #menu a {
     text-decoration: none;
     color: blue;
+    padding: 14px 16px;
 }
 #menu a:hover {
     border-bottom: 1px solid orange;
@@ -59,11 +65,11 @@ h1 ,h2 {
     border-bottom: 1px solid blue;
 }
 
-#logo #menu {
+/* #logo #menu {
     line-height: 100px;
     padding: 20px;
     margin-bottom: 50px;
-}
+} */
 
 /* landing page hero-image */
 
@@ -247,7 +253,7 @@ text-align: center;
 /* sign-up.html */
 
 form {
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 
 input {
