@@ -196,6 +196,7 @@ h1 ,h2 {
 
 #adventures ul {
     padding: 20px;
+    list-style-type: none;
 }
 /* #adventures li {
     display: inline-block;
