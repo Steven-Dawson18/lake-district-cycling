@@ -78,6 +78,7 @@ h1 ,h2 {
     width: 100%;
     overflow: hidden;
     position: relative;
+    margin: 20px 0;
 }
 
 #hero-image {
@@ -135,7 +136,7 @@ h1 ,h2 {
 }
 
 .level-image h2 {
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 /* main content supporting text */
