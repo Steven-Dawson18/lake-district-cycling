@@ -273,7 +273,7 @@ input[type="checkbox"] {
    text-align: center;
 }
 
-/* about.html */
+/* about.html main image */
 
 #family-outer {
     height: 500px;
@@ -285,10 +285,29 @@ input[type="checkbox"] {
 
 #family-image {
     height: 500px;
-    width: 800px;
+    width: 600px;
 }
 
 #family-image img {
     width: 500px;
+    padding: 20px;
+    border: 1px dotted orange;
+    margin: 40px;
 }
 
+/* family individual images */
+
+.about-image img {
+    width: 300px;
+    padding: 20px;
+    border: 1px dotted orange;
+    margin: 40px;
+    text-align: center;
+}
+
+.about-text {
+    width: 300px;
+    padding: 20px;
+    border: 1px dotted orange;
+    margin: 40px;
+}
