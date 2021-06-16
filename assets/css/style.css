@@ -276,7 +276,7 @@ input[type="checkbox"] {
 /* about.html main image */
 
 #family-outer {
-    height: 500px;
+    height: 800px;
     width: 800px;
     padding: 10px;
     margin: 0 auto;
@@ -302,12 +302,14 @@ input[type="checkbox"] {
     padding: 20px;
     border: 1px dotted orange;
     margin: 40px;
-    text-align: center;
+    display: inline-block;
+    float:inherit
 }
 
 .about-text {
-    width: 300px;
+    width: 600px;
     padding: 20px;
     border: 1px dotted orange;
     margin: 40px;
+    display: inline-block;
 }
