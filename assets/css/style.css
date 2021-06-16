@@ -254,6 +254,10 @@ text-align: center;
 
 form {
     margin-top: 3rem;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 input {
@@ -263,3 +267,28 @@ input {
     margin: 5px;
     text-align: center;
 }
+
+input[type="checkbox"] {
+   display: inline-block;
+   text-align: center;
+}
+
+/* about.html */
+
+#family-outer {
+    height: 500px;
+    width: 800px;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#family-image {
+    height: 500px;
+    width: 800px;
+}
+
+#family-image img {
+    width: 500px;
+}
+
