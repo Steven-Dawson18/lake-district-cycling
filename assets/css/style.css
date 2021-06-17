@@ -29,8 +29,6 @@ h1 ,h2 {
     color: blue;
     float: left;
     border-bottom: 1px solid orange;
-    padding: 20px;
-    margin: 20px;
 }
 
 #logo i {
@@ -40,10 +38,12 @@ h1 ,h2 {
 /* navigation menu */
 
 #menu {
-    font-size: large;
+    font-size: 110%;
     letter-spacing: 2px;
-    padding: 20px;
-    margin: 20px;
+}
+
+#menu, #logo {
+    line-height: 75px;
 }
 
 #menu  li {
