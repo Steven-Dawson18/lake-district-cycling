@@ -104,10 +104,10 @@ h1 ,h2 {
 /* main page content */
 
 .main-content {
-    max-width: 1600px;
-    min-width: 600px;
+    /* max-width: 1600px;
+    min-width: 600px; */
     padding: 20px;
-    margin: 40px;
+    /* margin: 40px; */
     border: 1px dotted orange;
 }
 
