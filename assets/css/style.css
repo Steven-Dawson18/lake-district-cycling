@@ -104,8 +104,7 @@ h1 ,h2 {
 /* main page content */
 
 .main-content {
-    /* max-width: 1600px;
-    min-width: 600px; */
+    height: 1100px;
     padding: 20px;
     /* margin: 40px; */
     border: 1px dotted orange;
@@ -127,35 +126,51 @@ h1 ,h2 {
 
 /* main content pictures */
 
-.level-image img {
+.left-about {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+}
+
+.left-about-heading {
+    margin-bottom: 50px;
+}
+
+.right-about-heading {
+    margin-bottom: 100px;
+}
+
+.right-about {
+    padding-top: 30px;
+    width: 40%;
+    float: right;
+}
+
+/* .level-image img {
     width: 300px;
     padding: 20px;
     border: 1px dotted orange;
     margin: 20px;
-    display: block;
+    display: inline;
+    float: left;
 }
 
 .level-image h2 {
     margin-top: 40px;
-}
+} */
 
 /* main content supporting text */
 
-.level-text {
-    padding: 20px;
-    border: 1px dotted orange;
-    margin: 40px;
-    text-align: center;
-    display: inline-block;
-    position: relative;
+
+
     /* left: 300px;
     bottom: 250px; */
     /* min-width: 300px;
     max-width: 600px;
     min-height: 100px;
     max-height: 200px; */
-    overflow: auto;
-}
+    /* overflow: auto;
+} */
 
 /* brathay adventures section video and activities */
 
@@ -180,6 +195,10 @@ h1 ,h2 {
     border: 1px dotted orange;
     margin: 0 auto;
     display: block;
+}
+
+#adventures {
+    margin-top: 30px;
 }
 
 #adventures h2, h3 {
