@@ -29,7 +29,7 @@ h1 ,h2 {
     color: blue;
     float: left;
     border-bottom: 1px solid orange;
-    \ padding: 20px;
+    padding: 20px;
     margin: 20px;
 }
 
@@ -64,12 +64,6 @@ h1 ,h2 {
 .active {
     border-bottom: 1px solid blue;
 }
-
-/* #logo #menu {
-    line-height: 100px;
-    padding: 20px;
-    margin-bottom: 50px;
-} */
 
 /* landing page hero-image */
 
@@ -106,7 +100,6 @@ h1 ,h2 {
 .main-content {
     height: 1100px;
     padding: 20px;
-    /* margin: 40px; */
     border: 1px dotted orange;
 }
 
@@ -136,6 +129,7 @@ h1 ,h2 {
     margin-bottom: 50px;
 }
 
+
 .right-about-heading {
     margin-bottom: 100px;
 }
@@ -145,32 +139,6 @@ h1 ,h2 {
     width: 40%;
     float: right;
 }
-
-/* .level-image img {
-    width: 300px;
-    padding: 20px;
-    border: 1px dotted orange;
-    margin: 20px;
-    display: inline;
-    float: left;
-}
-
-.level-image h2 {
-    margin-top: 40px;
-} */
-
-/* main content supporting text */
-
-
-
-    /* left: 300px;
-    bottom: 250px; */
-    /* min-width: 300px;
-    max-width: 600px;
-    min-height: 100px;
-    max-height: 200px; */
-    /* overflow: auto;
-} */
 
 /* brathay adventures section video and activities */
 
@@ -217,15 +185,6 @@ h1 ,h2 {
     padding: 20px;
     list-style-type: none;
 }
-/* #adventures li {
-    display: inline-block;
-    list-style: none;
-    width: 200px;
-    height: 50px;
-    padding: 10px 20px;
-    background-color: white;
-    border-radius: 15px;
-} */
 
 .activities {
     text-align: center;
@@ -293,6 +252,14 @@ text-align: center;
     color: black;
 }
 
+/*Where To Ride page*/
+
+#where-to-ride {
+    padding: 20px;
+    border: 1px dotted orange;
+}
+
+
 /* sign-up.html */
 
 .signup-form {
@@ -306,13 +273,6 @@ text-align: center;
     display: flex;
     flex-direction: column;
 }
-/* form {
-    margin-top: 3rem;
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-} */
 
 input {
     width: 50%;
@@ -330,7 +290,7 @@ input[type="checkbox"] {
 /* about.html main image */
 
 #family-outer {
-    height: 800px;
+    height: 650px;
     width: 800px;
     padding: 10px;
     margin: 0 auto;
@@ -339,7 +299,7 @@ input[type="checkbox"] {
 
 #family-image {
     height: 500px;
-    width: 600px;
+    /* width: 600px; */
 }
 
 #family-image img {
@@ -349,6 +309,19 @@ input[type="checkbox"] {
 }
 
 /* family individual images */
+
+#about-us {
+    padding: 20px;
+    border: 1px dotted orange;
+}
+
+#about-us h2 {
+    text-align: center;
+}
+
+#about-us p {
+    text-align: center;
+}
 
 .about-image img {
     display: block;
