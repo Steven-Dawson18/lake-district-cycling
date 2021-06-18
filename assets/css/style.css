@@ -98,10 +98,10 @@ h1 ,h2 {
 /* main page content */
 
 .main-content {
-    height: 1100px;
+    /* height: 1100px; */
     padding: 20px;
     border: 1px dotted orange;
-}
+} 
 
 .main-heading {
     text-align: center;
@@ -119,22 +119,43 @@ h1 ,h2 {
 
 /* main content pictures */
 
-.left-about {
+#left-about-heading-1 {
     padding-top: 30px;
     width: 40%;
     float: left;
-}
-
-.left-about-heading {
-    margin-bottom: 50px;
+    clear: both;
 }
 
 
-.right-about-heading {
-    margin-bottom: 100px;
+#right-about-heading-1 {
+    padding-top: 30px;
+    width: 40%;
+    float: right;
 }
 
-.right-about {
+#left-about-heading-2 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+    clear: both;
+}
+
+
+#right-about-heading-2 {
+    padding-top: 30px;
+    width: 40%;
+    float: right;
+}
+
+#left-about-heading-3 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+    clear: both;
+}
+
+
+#right-about-heading-3 {
     padding-top: 30px;
     width: 40%;
     float: right;
@@ -167,6 +188,7 @@ h1 ,h2 {
 
 #adventures {
     margin-top: 30px;
+    clear: both;
 }
 
 #adventures h2, h3 {
@@ -236,6 +258,8 @@ h1 ,h2 {
 
 footer {
     height: 150px;
+
+    clear: both;
 }
 
 .social-networks {
@@ -254,9 +278,156 @@ text-align: center;
 
 /*Where To Ride page*/
 
-#where-to-ride {
+/* .where-to-ride {
     padding: 20px;
     border: 1px dotted orange;
+} */
+
+/* where to ride */
+
+#where-to-ride {
+    margin-bottom: 20px;
+    clear: both;
+    padding-top: 30px;
+}
+
+#where-to-ride-heading {
+    text-align: center;
+}
+
+#where-to-ride-heading h2, p {
+    margin-bottom: 20px;
+}
+
+#intermediate {
+    margin-top: 20px;
+}
+
+.route-level-heading {
+    text-align: center;
+    /* margin-top: 20px; */
+    padding-top: 30px;
+    clear: both;
+}
+
+.route-image {
+    width: 500px;
+}
+
+.route-image img {
+    width: 100%;
+}
+
+#about-left-1 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+    display: inline-block;
+}
+
+#about-right-1 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    display: inline-block;
+}
+
+#about-left-2 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+
+    clear: both;
+}
+
+#about-right-2 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+}
+
+#about-left-3 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+
+    clear: both;
+}
+
+#about-right-3 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+}
+
+#about-left-4 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+
+    clear: both;
+}
+
+#about-right-4 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+}
+
+#about-left-5 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+
+    clear: both;
+}
+
+#about-right-5 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+}
+
+#about-left-6 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+
+    clear: both;
+}
+
+#about-right-6 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+}
+
+#about-left-7 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+
+    clear: both;
+}
+
+#about-right-7 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+}
+
+#about-left-8 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+
+    clear: both;
+}
+
+#about-right-8 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
 }
 
 
