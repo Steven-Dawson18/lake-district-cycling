@@ -98,9 +98,8 @@ h1 ,h2 {
 /* main page content */
 
 .main-content {
-    /* height: 1100px; */
     padding: 20px;
-    border: 1px dotted orange;
+    /* border: 1px dotted orange; */
 } 
 
 .main-heading {
@@ -117,7 +116,7 @@ h1 ,h2 {
     margin-bottom: 20px;
 }
 
-/* main content pictures */
+/* main content text and pictures */
 
 #left-about-heading-1 {
     padding-top: 30px;
@@ -125,7 +124,6 @@ h1 ,h2 {
     float: left;
     clear: both;
 }
-
 
 #right-about-heading-1 {
     padding-top: 30px;
@@ -187,14 +185,16 @@ h1 ,h2 {
 }
 
 #adventures {
-    margin-top: 30px;
+    /* margin-top: 30px; */
     clear: both;
+    padding: 30px;
 }
 
 #adventures h2, h3 {
     text-align: center;
     margin-bottom: 20px;
-    margin-top: 40px;
+    /* margin-top: 40px; */
+    padding: 30px;
 }
 
 #adventures p {
@@ -461,7 +461,7 @@ input[type="checkbox"] {
 /* about.html main image */
 
 #family-outer {
-    height: 650px;
+    /* height: 650px; */
     width: 800px;
     padding: 10px;
     margin: 0 auto;
@@ -469,7 +469,7 @@ input[type="checkbox"] {
 }
 
 #family-image {
-    height: 500px;
+    padding-bottom: 30px;
     /* width: 600px; */
 }
 
@@ -484,6 +484,7 @@ input[type="checkbox"] {
 #about-us {
     padding: 20px;
     border: 1px dotted orange;
+    clear: both;
 }
 
 #about-us h2 {
@@ -505,7 +506,7 @@ input[type="checkbox"] {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 20px;
+    padding: 30px;
     width: 80%;
     text-align: center;
 }
