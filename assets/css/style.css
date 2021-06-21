@@ -453,6 +453,10 @@ text-align: center;
     padding: 30px;
 }
 
+.signup-form h1, h2 {
+    color: orange;
+}
+
 /* about.html main image */
 
 #family-outer {
