@@ -472,6 +472,11 @@ text-align: center;
     border-color: whitesmoke;
 }
 
+.checkbox {
+    float: left;
+    margin-right: 5px;
+}
+
 /* about.html main image */
 
 #family-outer {
