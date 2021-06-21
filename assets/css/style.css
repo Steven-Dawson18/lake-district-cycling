@@ -278,13 +278,6 @@ text-align: center;
     color: black;
 }
 
-/*Where To Ride page*/
-
-/* .where-to-ride {
-    padding: 20px;
-    border: 1px dotted orange;
-} */
-
 /* where to ride */
 
 #where-to-ride {
@@ -305,15 +298,18 @@ text-align: center;
     margin-top: 20px;
 }
 
+.route-description {
+    margin-right: 20px;
+}
 .route-level-heading {
     text-align: center;
-    /* margin-top: 20px; */
     padding-top: 30px;
     clear: both;
 }
 
 .route-image {
     width: 500px;
+    margin-left: 20px;
 }
 
 .route-image img {
@@ -338,7 +334,6 @@ text-align: center;
     padding-top: 30px;
     width: 40%;
     float: left;
-
     clear: both;
 }
 
@@ -352,7 +347,6 @@ text-align: center;
     padding-top: 30px;
     width: 40%;
     float: left;
-
     clear: both;
 }
 
@@ -366,7 +360,6 @@ text-align: center;
     padding-top: 30px;
     width: 40%;
     float: left;
-
     clear: both;
 }
 
@@ -380,7 +373,6 @@ text-align: center;
     padding-top: 30px;
     width: 40%;
     float: left;
-
     clear: both;
 }
 
@@ -394,7 +386,6 @@ text-align: center;
     padding-top: 30px;
     width: 40%;
     float: left;
-
     clear: both;
 }
 
@@ -408,7 +399,6 @@ text-align: center;
     padding-top: 30px;
     width: 40%;
     float: left;
-
     clear: both;
 }
 
@@ -422,7 +412,6 @@ text-align: center;
     padding-top: 30px;
     width: 40%;
     float: left;
-
     clear: both;
 }
 
