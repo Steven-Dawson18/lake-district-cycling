@@ -553,3 +553,14 @@ text-align: center;
     margin-right: auto;
     width: 40%;
 }
+
+/*review form*/
+
+.review-form {
+    margin: 0 auto;
+    color: whitesmoke;
+    background-color: rgba(49, 83, 194, 0.6);
+    max-width: 400px;
+    left: 20%;
+    padding: 30px;
+}
