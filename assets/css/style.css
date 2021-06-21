@@ -443,6 +443,16 @@ text-align: center;
     height: 900px;
 }
 
+.signup-form {
+    margin: 100px 10% 0 0;
+    color: whitesmoke;
+    background-color: rgba(49, 83, 194, 0.6);
+    max-width: 400px;
+    position: absolute;
+    right: 0;
+    padding: 30px;
+}
+
 /* about.html main image */
 
 #family-outer {
