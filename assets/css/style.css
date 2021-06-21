@@ -457,6 +457,17 @@ text-align: center;
     color: orange;
 }
 
+.text-input {
+    background: transparent;
+    color: whitesmoke;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid orange;
+    border-radius: 2px;
+    outline: none;
+}
+
 /* about.html main image */
 
 #family-outer {
