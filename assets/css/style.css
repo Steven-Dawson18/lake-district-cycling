@@ -468,6 +468,10 @@ text-align: center;
     outline: none;
 }
 
+.text-input:hover {
+    border-color: whitesmoke;
+}
+
 /* about.html main image */
 
 #family-outer {
