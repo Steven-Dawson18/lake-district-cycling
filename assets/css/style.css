@@ -477,6 +477,17 @@ text-align: center;
     margin-right: 5px;
 }
 
+.sign-up-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: orange;
+    color: whitesmoke;
+    display: block;
+}
+
 /* about.html main image */
 
 #family-outer {
