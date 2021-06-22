@@ -563,11 +563,56 @@ text-align: center;
     /*nav*/
 
     @media screen and (max-width: 1100px){
-
+        #menu {
+            clear: left;
+            float: left;
+            line-height: 25px;
+        }
     }
 
-    /*main content*/
+    /*cover text*/
 
-    @media screen and (max-width: 530){
+    @media screen and (max-width: 900px){
+        #cover-text {
+            left: 0;
+        }
+        
+    /*images and text on index.html to center*/
+        .main-heading {
+            width: 90%;
+            height: 1200px;
+            margin: 0 auto;
+        }
+
+        #left-about-heading-1 {
+            width: inherit;
+            float: revert;
+        }
+
+        #right-about-heading-1 {
+            width: inherit;
+        }
+
+        #left-about-heading-2 {
+            width: inherit;
+            float: revert;
+        }
+
+        #right-about-heading-2 {
+            width: inherit;
+        }
+
+        #left-about-heading-3 {
+            width: inherit;
+            float: revert;
+        }
+
+        #right-about-heading-3 {
+            width: inherit;
+        }
+
+        #left-about-heading-1 img {
+            margin: 0 auto;
+        }
 
     }
