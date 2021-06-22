@@ -615,4 +615,118 @@ text-align: center;
             margin: 0 auto;
         }
 
+        #adventures iframe {
+
+        }
+
+/*media queries for where-to-ride.html*/
+
+        #where-to-ride > div {
+            width: 90%;
+            margin: 0 auto;
+        }
+        #beginner {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        #about-left-1 {
+            width: inherit;
+            float: revert;
+            display: inherit;
+            margin: 0 auto;
+        }
+
+        #about-right-1 {
+            width: inherit;
+        }
+
+        #about-left-2 {
+            width: inherit;
+            float: revert;
+            display: inherit;
+            margin: 0 auto;
+        }
+
+        #about-right-2 {
+            width: inherit;
+        }
+
+
+        #about-left-3 {
+            width: inherit;
+            float: revert;
+            display: inherit;
+            margin: 0 auto;
+        }
+
+        #about-right-3 {
+            width: inherit;
+        }
+
+        #intermediate {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        #about-left-4 {
+            width: inherit;
+            float: revert;
+            display: inherit;
+            margin: 0 auto;
+        }
+
+        #about-right-4 {
+            width: inherit;
+        }
+
+        #about-left-5 {
+            width: inherit;
+            float: revert;
+            display: inherit;
+            margin: 0 auto;
+        }
+
+        #about-right-5 {
+            width: inherit;
+        }
+
+        #about-left-6 {
+            width: inherit;
+            float: revert;
+            display: inherit;
+            margin: 0 auto;
+        }
+
+        #about-right-6 {
+            width: inherit;
+        }
+
+        #advanced {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        #about-left-7 {
+            width: inherit;
+            float: revert;
+            display: inherit;
+            margin: 0 auto;
+        }
+
+        #about-right-7 {
+            width: inherit;
+        }
+
+        #about-left-8 {
+            width: inherit;
+            float: revert;
+            display: inherit;
+            margin: 0 auto;
+        }
+
+        #about-right-8 {
+            width: inherit;
+        }
     }
+
