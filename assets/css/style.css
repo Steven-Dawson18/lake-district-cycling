@@ -487,9 +487,9 @@ text-align: center;
 
 #family-outer {
     /* height: 650px; */
-    width: 800px;
+    /* width: 800px; */
     padding: 10px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     text-align: center;
 }
 
@@ -567,6 +567,26 @@ text-align: center;
             clear: left;
             float: left;
             line-height: 25px;
+        }
+    }
+
+    @media screen and (max-width: 500px){
+        #menu {
+            font-size: 50%;
+        }
+    }
+
+/*logo resizing*/
+
+    @media screen and (max-width: 550px) {
+        #logo {
+            font-size: 150%;
+        }
+    }
+/*logo for mobile*/
+    @media screen and (max-width: 400px) {
+        #logo {
+            font-size: 100%;
         }
     }
 
