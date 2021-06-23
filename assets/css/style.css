@@ -487,22 +487,18 @@ text-align: center;
 /* about.html main image */
 
 #family-outer {
-    /* height: 650px; */
-    /* width: 800px; */
     padding: 10px;
-    /* margin: 0 auto; */
     text-align: center;
 }
 
 #family-image {
     padding-bottom: 30px;
-    /* width: 600px; */
 }
 
 #family-image img {
     padding: 20px;
     border: 1px dotted orange;
-    width: 600px;
+    width: 100%;
 }
 
 /* family individual images */
