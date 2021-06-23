@@ -764,3 +764,8 @@ text-align: center;
         }
     }
 
+@media screen and (max-width:400px) {
+    .signup-form {
+        padding: 20px;
+    }
+}
