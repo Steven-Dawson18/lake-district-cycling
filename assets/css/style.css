@@ -297,6 +297,12 @@ text-align: center;
 }
 
 #intermediate {
+    clear: both;
+    margin-top: 20px;
+}
+
+#advanced {
+    clear: both;
     margin-top: 20px;
 }
 
