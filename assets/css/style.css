@@ -181,6 +181,7 @@ h1 ,h2 {
 }
 
 #adventures iframe {
+    width: 100%;
     padding: 20px;
     border: 1px dotted orange;
     margin: 0 auto;
@@ -635,10 +636,6 @@ text-align: center;
             margin: 0 auto;
         }
 
-        #adventures iframe {
-
-        }
-
 /*media queries for where-to-ride.html*/
 
         #where-to-ride > div {
@@ -651,7 +648,7 @@ text-align: center;
         }
 
         #about-left-1 {
-            width: inherit;
+            width: 50%;
             float: revert;
             display: inherit;
             margin: 0 auto;
@@ -662,7 +659,7 @@ text-align: center;
         }
 
         #about-left-2 {
-            width: inherit;
+            width: 50%;
             float: revert;
             display: inherit;
             margin: 0 auto;
@@ -674,7 +671,7 @@ text-align: center;
 
 
         #about-left-3 {
-            width: inherit;
+            width: 50%;
             float: revert;
             display: inherit;
             margin: 0 auto;
@@ -690,7 +687,7 @@ text-align: center;
         }
 
         #about-left-4 {
-            width: inherit;
+            width: 50%;
             float: revert;
             display: inherit;
             margin: 0 auto;
@@ -701,7 +698,7 @@ text-align: center;
         }
 
         #about-left-5 {
-            width: inherit;
+            width: 50%;
             float: revert;
             display: inherit;
             margin: 0 auto;
@@ -712,7 +709,7 @@ text-align: center;
         }
 
         #about-left-6 {
-            width: inherit;
+            width: 50%;
             float: revert;
             display: inherit;
             margin: 0 auto;
@@ -728,7 +725,7 @@ text-align: center;
         }
 
         #about-left-7 {
-            width: inherit;
+            width: 50%;
             float: revert;
             display: inherit;
             margin: 0 auto;
@@ -739,7 +736,7 @@ text-align: center;
         }
 
         #about-left-8 {
-            width: inherit;
+            width: 50%;
             float: revert;
             display: inherit;
             margin: 0 auto;
