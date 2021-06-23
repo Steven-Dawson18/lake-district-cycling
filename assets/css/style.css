@@ -423,6 +423,21 @@ text-align: center;
     float: right;
 }
 
+#top-button {
+    background-color: blue;
+    color: whitesmoke;
+    outline: none;
+    bottom: 20px;
+    right: 5px;
+    height: 20px;
+    position: fixed;
+    z-index: 99;
+}
+
+#top-button a {
+    text-decoration: none;
+    color: whitesmoke;
+}
 
 /* sign-up.html */
 
