@@ -100,7 +100,6 @@ h1 ,h2 {
 
 .main-content {
     padding: 20px;
-    /* border: 1px dotted orange; */
 } 
 
 .main-heading {
@@ -189,7 +188,6 @@ h1 ,h2 {
 }
 
 #adventures {
-    /* margin-top: 30px; */
     clear: both;
     padding: 30px;
 }
@@ -197,7 +195,6 @@ h1 ,h2 {
 #adventures h2, h3 {
     text-align: center;
     margin-bottom: 20px;
-    /* margin-top: 40px; */
     padding: 30px;
 }
 
@@ -617,49 +614,60 @@ text-align: center;
         
     /*images and text on index.html to center*/
     
+        .main-content {
+            /* height: 100%vh; */
+        }
+
         .main-heading {
-            width: 90%;
+            width: 100%;
             height: 1200px;
             margin: 0 auto;
         }
 
         #left-about-heading-1 {
-            width: inherit;
-            float: revert;
+            width: 50%;
+            float: none;
+            margin: 0 auto;
         }
 
         #right-about-heading-1 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
         #left-about-heading-2 {
-            width: inherit;
-            float: revert;
+            width: 50%;
+            float: none;
+            margin: 0 auto;
         }
 
         #right-about-heading-2 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
         #left-about-heading-3 {
-            width: inherit;
-            float: revert;
+            width: 50%;
+            float: none;
+            margin: 0 auto;
         }
 
         #right-about-heading-3 {
-            width: inherit;
-        }
-
-        #left-about-heading-1 img {
+            float: none;
+            width: 90%;
             margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
 /*media queries for where-to-ride.html*/
 
-        #where-to-ride > div {
-            width: 90%;
-            margin: 0 auto;
-        }
         #beginner {
             width: 90%;
             margin: 0 auto;
@@ -667,36 +675,48 @@ text-align: center;
 
         #about-left-1 {
             width: 50%;
-            float: revert;
+            float: none;
             display: inherit;
             margin: 0 auto;
         }
 
         #about-right-1 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
         #about-left-2 {
             width: 50%;
-            float: revert;
+            float: none;
             display: inherit;
             margin: 0 auto;
         }
 
         #about-right-2 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
 
         #about-left-3 {
             width: 50%;
-            float: revert;
+            float: none;
             display: inherit;
             margin: 0 auto;
         }
 
         #about-right-3 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
         #intermediate {
@@ -706,35 +726,47 @@ text-align: center;
 
         #about-left-4 {
             width: 50%;
-            float: revert;
+            float: none;
             display: inherit;
             margin: 0 auto;
         }
 
         #about-right-4 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
         #about-left-5 {
             width: 50%;
-            float: revert;
+            float: none;
             display: inherit;
             margin: 0 auto;
         }
 
         #about-right-5 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
         #about-left-6 {
             width: 50%;
-            float: revert;
+            float: none;
             display: inherit;
             margin: 0 auto;
         }
 
         #about-right-6 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
         #advanced {
@@ -744,24 +776,32 @@ text-align: center;
 
         #about-left-7 {
             width: 50%;
-            float: revert;
+            float: none;
             display: inherit;
             margin: 0 auto;
         }
 
         #about-right-7 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
 
         #about-left-8 {
             width: 50%;
-            float: revert;
+            float: none;
             display: inherit;
             margin: 0 auto;
         }
 
         #about-right-8 {
-            width: inherit;
+            float: none;
+            width: 90%;
+            margin: 0 auto;
+            text-align: center;
+            display: block;
         }
     }
 
