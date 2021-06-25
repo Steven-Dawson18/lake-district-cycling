@@ -74,6 +74,13 @@ As a potential client, I want to know how I can download the cycle routes
 ---
 ## Features <a name="features"></a>
 
+![Home Page](assets/images/home-page.png)
+
+![Where To Ride Page](assets/images/where-to-ride-page.png)
+
+![Sign Up Page](assets/images/sign-up-page.png)
+
+![About Us Page](assets/images/about-us-page.png)
 ---
 ## Bugs <a name="bugs"></a>
 
