@@ -128,6 +128,11 @@ As a potential client, I want to know how I can download the cycle routes
 ---
 ## Bugs <a name="bugs"></a>
 
+* When testing the responsiveness of the site a few bugs were found and corrected.
+* The sign up button on the home page had used a button tag with an a element inside. The button element was replaced by a div and styled accordingly.
+* the sign up form had to opening form tags. One tag was removed to correct.
+The sign up form had two classes attached and this made the form display incorrectly. One class removed which resolved the issue.
+* A spelling mistake was found in the css file on line 90 which was corrected.
 ---
 ## Credits <a name="credits"></a>
 
