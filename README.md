@@ -133,6 +133,28 @@ As a potential client, I want to know how I can download the cycle routes
 * the sign up form had to opening form tags. One tag was removed to correct.
 The sign up form had two classes attached and this made the form display incorrectly. One class removed which resolved the issue.
 * A spelling mistake was found in the css file on line 90 which was corrected.
+
+---
+
+## Testing
+
+* Validator Testing
+
+* HTML
+No errors were returned when passing through the official W3C validator
+
+![Home Page Testing](assets/images/html-validation-home-page.png)
+
+![HWhere To Ride Page Testing](assets/images/html-validation-where-to-ride.png)
+
+![Sign Up Page Testing](assets/images/html-validation-sign-up.png)
+
+![About Us Page Testing](assets/images/html-validation-about-us.png)
+
+* CSS
+No errors were found when passing through the official (Jigsaw) validator
+
+![CSS Testing](assets/images/css-validation-lake-district-tykes-cycling.png)
 ---
 ## Credits <a name="credits"></a>
 
