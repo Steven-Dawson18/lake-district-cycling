@@ -74,6 +74,17 @@ As a potential client, I want to know how I can download the cycle routes
 ---
 ## Features <a name="features"></a>
 
+* Navigation bar
+* The sites logo and navigation bar features on all 4 pages, and allows the user to navigate between pages. The layout is exactly the same and it is responsive to screen size it's viewed on.
+
+* Landing page image
+* The landing page image includes a photo of a family cycling in the Lake District and text overlay which lets the user understand what they will find on the site.
+
+* Types of Rides section
+* In this section the user can see the different level of rides which are available to chese from. Each level of ride has a picture and text to describe what to expect and a clickable link to take you straight to that section of the site.
+
+* Our Partners and sign up link
+* In this section the user will find information from our partners on related activities with clickable external links to their sites. There is also a sign up button to navigate the user to our sign up page.
 ![Home Page](assets/images/home-page.png)
 
 ![Where To Ride Page](assets/images/where-to-ride-page.png)
