@@ -177,6 +177,7 @@ Once the master branch has been selected, the page will be automatically refresh
 ## Credits <a name="credits"></a>
 
 ### Content
+* The content of this site is original however I did take inspiration from the Love running walkthroough Project for the Logo and Nav layout.
 
 ### Media
 #### The photos used on the home and sign up page are from Google Images and linked to original site:
