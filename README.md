@@ -133,10 +133,16 @@ As a potential client, I want to know how I can download the cycle routes
 * the sign up form had to opening form tags. One tag was removed to correct.
 The sign up form had two classes attached and this made the form display incorrectly. One class removed which resolved the issue.
 * A spelling mistake was found in the css file on line 90 which was corrected.
+* Layout problems on the home page and where to ride page were identified and corrected. To position text next to the pictures I initially used position in css, however this left a large space between pictures. To correct this I removed the position and used the Float element which worked well.
+* I found an unresponsive picture on the About Us page when testing in the Developer Tools. To correct this I changed the size of the picture from pixles to a peercentage.
+* The video link from youtube on the homepage was unresponsive. To correct this I changed the size from pixles to percentage.
 
 ---
 
 ## Testing
+
+* During the testing process I have used the Google Chrome Developer Tools to view each aspect of the site in different widths to make sure that it is responsive to screen size change and also viewed on the different divices such as ipad, iphone 6 and iphone 6 plus to make sure that each element works as it should.
+* The project has alos been published to GItHub Pages and viewed in different screen widths to check the responsiveness of the site and make sure all links work as they should.
 
 * Validator Testing
 
