@@ -22,7 +22,9 @@ This website is to provide a comprehensive list of cycling routes for families w
 * [Wireframe Mockups](#ux2)
 2. [Features](#features)
 3. [Bugs discovered](#bugs)
-4. [Credits](#credits)
+4. [Testing](#testing)
+5. [Deployment](#deployment)
+6. [Credits](#credits)
 * Content
 * Media
 * Animations
@@ -139,7 +141,7 @@ The sign up form had two classes attached and this made the form display incorre
 
 ---
 
-## Testing
+## Testing <a name="testing"></a>
 
 * During the testing process I have used the Google Chrome Developer Tools to view each aspect of the site in different widths to make sure that it is responsive to screen size change and also viewed on the different divices such as ipad, iphone 6 and iphone 6 plus to make sure that each element works as it should.
 * The project has alos been published to GItHub Pages and viewed in different screen widths to check the responsiveness of the site and make sure all links work as they should.
@@ -161,6 +163,16 @@ No errors were returned when passing through the official W3C validator
 No errors were found when passing through the official (Jigsaw) validator
 
 ![CSS Testing](assets/images/css-validation-lake-district-tykes-cycling.png)
+
+---
+
+## Deployment <a name="deployment"></a>
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
 ---
 ## Credits <a name="credits"></a>
 
