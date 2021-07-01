@@ -196,7 +196,8 @@ A bug was descoverd with the pictures on the home page on the iphone. They are n
 The site works well in protrait and landscape on the iphone 7. 
 ![iphone 7 Testing](assets/images/iphone-7-test.tiff)
 
-#### Samsung Galaxy Tab
+#### Samsung Galaxy Tab A6
+
 
 
 #### Desktop - macbook pro
