@@ -199,6 +199,8 @@ A bug was descoverd with the pictures on the home page on the iphone. They are n
 The site works well on a desktop with no issures found
 ![Chrome Testing](assets/images/chrome-test.png)
 
+### Teasting user stories
+
 ---
 
 ## Deployment <a name="deployment"></a>
