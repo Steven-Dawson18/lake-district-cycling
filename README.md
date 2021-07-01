@@ -182,7 +182,18 @@ No errors were found when passing through the official (Jigsaw) validator once t
 * Safari browser -  Site works well, back to top button doesn't work.
 ![Safari Testing](assets/images/safari-test.png)
 * Firefox browser - All site works well
-![CSS Testing](assets/images/firefox-test.png)
+![Firefox Testing](assets/images/firefox-test.png)
+
+### Testing on different devices
+
+#### iphone 11 Testing
+The site works well in protrait and landscape on the iphone.
+![iphone 11 Testing](assets/images/iphone-11.png)
+A bug was descoverd with the pictures on the home page on the iphone. They are not centered as shown in the picture below:
+![iphone 11 bug](assets/images/iphone-11-bug.png)
+
+
+
 
 ---
 
