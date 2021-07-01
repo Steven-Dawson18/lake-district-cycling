@@ -546,7 +546,6 @@ footer {
 }
 
 #kids-vid video {
-    /* height: 500px; */
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -598,7 +597,7 @@ footer {
         }
     }
 /*logo for mobile*/
-    @media screen and (max-width: 400px) {
+    @media screen and (max-width: 450px) {
         #logo {
             font-size: 100%;
         }
