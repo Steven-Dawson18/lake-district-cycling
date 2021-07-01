@@ -146,10 +146,18 @@ The sign up form had two classes attached and this made the form display incorre
 * During the testing process I have used the Google Chrome Developer Tools to view each aspect of the site in different widths to make sure that it is responsive to screen size change and also viewed on the different divices such as ipad, iphone 6 and iphone 6 plus to make sure that each element works as it should.
 * The project has alos been published to GItHub Pages and viewed in different screen widths to check the responsiveness of the site and make sure all links work as they should.
 
+### Validator Testing
 * Validator Testing
 
+* HTML issues highlighted
+* The first time I put the code into the validator it came up with some errors I have since corrected. These were as follows:
+* The a atribute may not be a decendant of the button element.
+* Stray closing section tag.
+* There were two form opening tags in the sign up form.
+* Advised to change the h1 element to a h2 element in the sign up form.
+
 * HTML
-No errors were returned when passing through the official W3C validator
+No errors were returned when passing through the official W3C validator once the corrections had been made. Images of validation pass are below:
 
 ![Home Page Testing](assets/images/html-validation-home-page.png)
 
@@ -160,9 +168,21 @@ No errors were returned when passing through the official W3C validator
 ![About Us Page Testing](assets/images/html-validation-about-us.png)
 
 * CSS
-No errors were found when passing through the official (Jigsaw) validator
+* CSS highlighted errors.
+* A spelling mistake had been highlighted on line 90 (sloid) this was corrected to solid.
+
+No errors were found when passing through the official (Jigsaw) validator once the correction had been made.
 
 ![CSS Testing](assets/images/css-validation-lake-district-tykes-cycling.png)
+
+### Testing different in browsers
+
+* Chrome browser - All site works well
+![Chrome Testing](assets/images/chrome-test.png)
+* Safari browser -  Site works well, back to top button doesn't work.
+![Safari Testing](assets/images/safari-test.png)
+* Firefox browser - All site works well
+![CSS Testing](assets/images/firefox-test.png)
 
 ---
 
