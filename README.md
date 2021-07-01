@@ -192,8 +192,12 @@ The site works well in protrait and landscape on the iphone.
 A bug was descoverd with the pictures on the home page on the iphone. They are not centered as shown in the picture below:
 ![iphone 11 bug](assets/images/iphone-11-bug.png)
 
+#### Samsung Galaxy Tab
 
 
+#### Desktop - macbook pro
+The site works well on a desktop with no issures found
+![Chrome Testing](assets/images/chrome-test.png)
 
 ---
 
