@@ -197,7 +197,8 @@ The site works well in protrait and landscape on the iphone 7.
 ![iphone 7 Testing](assets/images/iphone-7-test.tiff)
 
 #### Samsung Galaxy Tab A6
-
+The site works well in protrait and landscape on the Samsung Galaxy Tab A6. 
+![iphone 7 Testing](assets/images/galaxy-tab-a6-test.tiff)
 
 
 #### Desktop - macbook pro
