@@ -138,7 +138,7 @@ The sign up form had two classes attached and this made the form display incorre
 * Layout problems on the home page and where to ride page were identified and corrected. To position text next to the pictures I initially used position in css, however this left a large space between pictures. To correct this I removed the position and used the Float element which worked well.
 * I found an unresponsive picture on the About Us page when testing in the Developer Tools. To correct this I changed the size of the picture from pixles to a peercentage.
 * The video link from youtube on the homepage was unresponsive. To correct this I changed the size from pixles to percentage.
-
+* The three route images on the home page are not centered when viewed on a mobile device.
 ---
 
 ## Testing <a name="testing"></a>
