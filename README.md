@@ -207,6 +207,8 @@ The site works well on a desktop with no issures found
 
 ### Testing User Stories
 1. As an new visitor to the website, I want to easily navigate the site so I can find what I want efficiently
+![Nav Bar](assets/images/nav-bar.png)
+The Navigation bar is the same on each page of the site making it intuitive to use.
 2. As an new visitor to the website, I want to view the differnet routes in detail so I can decide which one to choose
 3. As a new visitor to the website, I want to learn more about the people who have selected the cycling routes presented to make a connection
 4. As a potential client, I want to know past clients reviews of the cycling routes on offer
