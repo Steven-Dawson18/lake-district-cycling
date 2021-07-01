@@ -187,10 +187,14 @@ No errors were found when passing through the official (Jigsaw) validator once t
 ### Testing on different devices
 
 #### iphone 11 Testing
-The site works well in protrait and landscape on the iphone.
+The site works well in protrait and landscape on the iphone. 
 ![iphone 11 Testing](assets/images/iphone-11.png)
 A bug was descoverd with the pictures on the home page on the iphone. They are not centered as shown in the picture below:
 ![iphone 11 bug](assets/images/iphone-11-bug.png)
+
+#### iphone 7 Testing
+The site works well in protrait and landscape on the iphone 7. 
+![iphone 7 Testing](assets/images/iphone-7-test.tiff)
 
 #### Samsung Galaxy Tab
 
@@ -199,7 +203,7 @@ A bug was descoverd with the pictures on the home page on the iphone. They are n
 The site works well on a desktop with no issures found
 ![Chrome Testing](assets/images/chrome-test.png)
 
-### Teasting user stories
+### Testing User Stories
 
 ---
 
