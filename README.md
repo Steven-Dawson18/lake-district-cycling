@@ -206,7 +206,15 @@ The site works well on a desktop with no issures found
 ![Chrome Testing](assets/images/chrome-test.png)
 
 ### Testing User Stories
-
+1. As an new visitor to the website, I want to easily navigate the site so I can find what I want efficiently
+2. As an new visitor to the website, I want to view the differnet routes in detail so I can decide which one to choose
+3. As a new visitor to the website, I want to learn more about the people who have selected the cycling routes presented to make a connection
+4. As a potential client, I want to know past clients reviews of the cycling routes on offer
+As a potential client, I want to know how I can download the cycle routes
+5. As a potential client, I want to understand the download process, so I know the next setps to take
+6. As an interested observer and potential client, I want to be able to follow the events on social media so I can keep up to date with the latest news and events and sign up to up-coming events
+7. As an interested client, I want an easy to fill in contact/ sign up form, so I can make contact sign up to activities
+8. As a returning visitor to the website, who has already signed up/ provided contact details, I want to be able to leave a review of cycle routes and activities easily
 ---
 
 ## Deployment <a name="deployment"></a>
