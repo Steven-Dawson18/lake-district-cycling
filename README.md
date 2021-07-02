@@ -139,6 +139,9 @@ The sign up form had two classes attached and this made the form display incorre
 * I found an unresponsive picture on the About Us page when testing in the Developer Tools. To correct this I changed the size of the picture from pixles to a peercentage.
 * The video link from youtube on the homepage was unresponsive. To correct this I changed the size from pixles to percentage.
 * The three route images on the home page are not centered when viewed on a mobile device.
+* When testing the site in different browsers I noticed that the back to top button didn't work in safari. To correct this I removed the anchor with the id top and instead linked to the logo.
+* When testing the site on mobile devices the 3 images on the home page were not centered. I corrected this by changing the images to a width of 100% from 50%.
+
 ---
 
 ## Testing <a name="testing"></a>
