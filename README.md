@@ -191,6 +191,8 @@ The site works well in protrait and landscape on the iphone.
 ![iphone 11 Testing](assets/images/iphone-11.png)
 A bug was descoverd with the pictures on the home page on the iphone. They are not centered as shown in the picture below:
 ![iphone 11 bug](assets/images/iphone-11-bug.png)
+The pictures have now been centered by changing from 50% to 100% width. This fix can be seen below:
+![iphone 11 bug fix](assets/images/iphone-11-bug-fix.png)
 
 #### iphone 7 Testing
 The site works well in protrait and landscape on the iphone 7. 
