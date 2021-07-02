@@ -225,9 +225,11 @@ As a potential client, I want to know how I can download the cycle routes
 The process of is actually to read the route information and then sign up to our newsletter, shown below:
 ![Next steps](assets/images/ride-information.png)
 6. As an interested observer and potential client, I want to be able to follow the events on social media so I can keep up to date with the latest news and events and sign up to up-coming events
+There are links to our social media in the footer of all the pages, shown in the image below:
+![Sign up form](assets/images/social-links.png)
+7. As an interested client, I want an easy to fill in contact/ sign up form, so I can make contact sign up to activities
 The sign up page allows the user to  sign up to the news letter and receive offers by selecting the information they want to see. There are links to the sign up form on every page.
 ![Sign up form](assets/images/signup-form.png)
-7. As an interested client, I want an easy to fill in contact/ sign up form, so I can make contact sign up to activities
 8. As a returning visitor to the website, who has already signed up/ provided contact details, I want to be able to leave a review of cycle routes and activities easily
 ---
 
