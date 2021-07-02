@@ -214,6 +214,7 @@ The Navigation bar is the same on each page of the site making it intuitive to u
 On the home page there is a link to the different levels of rides available on the site and link to the specific levels of rides on another page, shown below.
 ![Detailed Route Information](assets/images/detailed-route-info.png)
 3. As a new visitor to the website, I want to learn more about the people who have selected the cycling routes presented to make a connection
+![About Us](assets/images/about-us.png)
 4. As a potential client, I want to know past clients reviews of the cycling routes on offer
 As a potential client, I want to know how I can download the cycle routes
 5. As a potential client, I want to understand the download process, so I know the next setps to take
