@@ -231,6 +231,8 @@ There are links to our social media in the footer of all the pages, shown in the
 The sign up page allows the user to  sign up to the news letter and receive offers by selecting the information they want to see. There are links to the sign up form on every page.
 ![Sign up form](assets/images/signup-form.png)
 8. As a returning visitor to the website, who has already signed up/ provided contact details, I want to be able to leave a review of cycle routes and activities easily
+There is an area to leave a review of the site on the about us page shown below:
+![Reviews](assets/images/review.png)
 ---
 
 ## Deployment <a name="deployment"></a>
