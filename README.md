@@ -216,10 +216,14 @@ The Navigation bar is the same on each page of the site making it intuitive to u
 On the home page there is a link to the different levels of rides available on the site and link to the specific levels of rides on another page, shown below.
 ![Detailed Route Information](assets/images/detailed-route-info.png)
 3. As a new visitor to the website, I want to learn more about the people who have selected the cycling routes presented to make a connection
+In the about us section of the site there is information about the people who contributed to the creation of the site and selected rides that are shown. This can be seen in the image below:
 ![About Us](assets/images/about-us.png)
 4. As a potential client, I want to know past clients reviews of the cycling routes on offer
 As a potential client, I want to know how I can download the cycle routes
+![Reviews](assets/images/review.png)
 5. As a potential client, I want to understand the download process, so I know the next setps to take
+The process of is actually to read the route information and then sign up to our newsletter, shown below:
+![Next steps](assets/images/ride-information.png)
 6. As an interested observer and potential client, I want to be able to follow the events on social media so I can keep up to date with the latest news and events and sign up to up-coming events
 7. As an interested client, I want an easy to fill in contact/ sign up form, so I can make contact sign up to activities
 8. As a returning visitor to the website, who has already signed up/ provided contact details, I want to be able to leave a review of cycle routes and activities easily
