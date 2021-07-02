@@ -147,7 +147,7 @@ The sign up form had two classes attached and this made the form display incorre
 ## Testing <a name="testing"></a>
 
 * During the testing process I have used the Google Chrome Developer Tools to view each aspect of the site in different widths to make sure that it is responsive to screen size change and also viewed on the different divices such as ipad, iphone 6 and iphone 6 plus to make sure that each element works as it should.
-* The project has alos been published to GItHub Pages and viewed in different screen widths to check the responsiveness of the site and make sure all links work as they should.
+* The project has also been published to GItHub Pages and viewed in different screen widths to check the responsiveness of the site and make sure all links work as they should. Below are the different testing processes I have put the site through:
 
 ### Validator Testing
 * Validator Testing
