@@ -420,6 +420,23 @@ footer {
     float: right;
 }
 
+#reviews {
+    margin-bottom: 20px;
+    clear: both;
+    padding-top: 30px;
+    text-align: center;
+}
+
+#review-info {
+    text-align: left;
+    margin: 0 20px;
+}
+
+#review-info h3 {
+    text-align: left;
+    color: orange;
+}
+
 #top-button {
     background-color: blue;
     color: whitesmoke;
