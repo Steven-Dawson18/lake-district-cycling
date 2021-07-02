@@ -223,7 +223,7 @@ In the about us section of the site there is information about the people who co
 ![About Us](assets/images/about-us.png)
 4. As a potential client, I want to know past clients reviews of the cycling routes on offer
 As a potential client, I want to know how I can download the cycle routes
-![Reviews](assets/images/review.png)
+![Reviews](assets/images/review-section.png)
 5. As a potential client, I want to understand the download process, so I know the next setps to take
 The process of is actually to read the route information and then sign up to our newsletter, shown below:
 ![Next steps](assets/images/ride-information.png)
